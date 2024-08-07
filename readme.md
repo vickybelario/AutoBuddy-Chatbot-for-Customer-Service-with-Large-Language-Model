@@ -59,3 +59,4 @@ This model offers high accuracy and the best performance in handling both FAQs a
 
 ### [**Deployment Demo**](https://drive.google.com/file/d/18srgZGhkPxruex62RCXlwg3URjR7Puq8/view?usp=sharing)
 ### [**Tableau**](https://public.tableau.com/app/profile/ahmad.dani.rifai/viz/CarListing_17223143129200/Dashboard1?publish=yes)
+### [**Hugging Face**](https://huggingface.co/spaces/vickybelario/project01)
