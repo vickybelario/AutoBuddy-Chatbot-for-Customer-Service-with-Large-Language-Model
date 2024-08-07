@@ -67,7 +67,6 @@ This model offers high accuracy and the best performance in handling both FAQs a
 1. Adding more features to the car dataset, such as user reviews, ratings, and historical sales data, can help the model provide more accurate and relevant recommendations.
 2. Implementing deeper contextual understanding techniques, such as using transformer-based models like BERT.
 3. Applying a feedback loop mechanism where users can provide direct feedback on the chatbot's answer quality, which can be used to continuously train and refine the model.
-4. It is recommended to use stream processing methods for processing car data sold on the platform so that the model can always receive updated data in real time.
 
 ### [**Deployment Demo**](https://drive.google.com/file/d/18srgZGhkPxruex62RCXlwg3URjR7Puq8/view?usp=sharing)
 ### [**Tableau**](https://public.tableau.com/app/profile/ahmad.dani.rifai/viz/CarListing_17223143129200/Dashboard1?publish=yes)
