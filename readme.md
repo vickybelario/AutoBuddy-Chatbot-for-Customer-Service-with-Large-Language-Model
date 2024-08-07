@@ -4,7 +4,7 @@
 
 <h1>AutoBuddy</h1>
 
-### **LLM Chatbot for Customer Service and Vehicle Recommender**
+### **Chatbot for Customer Service and Vehicle Recommender**
 
 ---
 
