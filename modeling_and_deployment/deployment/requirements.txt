@@ -1,0 +1,10 @@
+faiss-cpu
+streamlit
+langchain
+langchain-community
+pandas
+openai
+keyboard
+python-dotenv==0.20.0
+pypdf
+tiktoken
