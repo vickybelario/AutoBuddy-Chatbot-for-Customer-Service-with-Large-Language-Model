@@ -4,7 +4,7 @@
 
 <h1>AutoBuddy</h1>
 
-### **Finetuned LLM Chatbot for Administrative and Vehicle Recommendation Questions for Carsome**
+### **LLM Chatbot for Customer Service and Vehicle Recommender**
 
 ---
 
