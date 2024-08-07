@@ -17,6 +17,11 @@
 
 Based on research conducted by Forbes, companies that use chatbots as a tool to interact with users see an average increase of 67 percent in revenue. Additionaly, according to a survey conducted by [Intercom](https://www.intercom.com/blog/the-state-of-chatbots/) with 500 business leaders, the use of chatbots can increase customer satisfaction by 24 percent.
 
+According to research conducted by the website Kindly, chatbots can be a potential tool to use in increasing revenue because chatbots can improve customer experience, customer life time value (LTV), and average order value by providing 24/7 services in the form of product recommendations and customer service. This is especially true for e-commerce companies where according to research conducted by tidio, 77% of companies that successfully utilize chatbots are from e-commerce companies.
+
+## **Objective**
+Create a chatbot application (Virtual Shopping Assistance) that can provide 24/7 customer service and can provide product recommendations to increase revenue based on customer experience, LTV, and AOV variables.
+
 ## **Why Carsome?**
 
 Carsome itself is Southeast Asia's largest integrated car e-commerce platform. We choose the brand because of it's commitment to digitalize used car industries in countries such as Malaysia, Indonesia, Thailand, and Singapore by reshaping and elevating the car buying and selling experience. Carsome provides end-to-end solutions to consumers and used car dealers, from car inspection to ownership transfer to financing, promising a service that is trusted, convenient and efficient.
