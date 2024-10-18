@@ -10,8 +10,11 @@
 
 </center>
 
-<br />
-<br />
+### [**Slide Project**](https://www.canva.com/design/DAGMqmQTmik/ZxsireTIhwfcg-_ITiN2sg/edit?utm_content=DAGMqmQTmik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+### [**Dataset**](https://www.kaggle.com/datasets/indraputra21/used-car-listings-in-indonesia?select=used_car.csv)
+### [**Deployment Demo**](https://drive.google.com/file/d/18srgZGhkPxruex62RCXlwg3URjR7Puq8/view?usp=sharing)
+### [**Tableau**](https://public.tableau.com/app/profile/ahmad.dani.rifai/viz/CarListing_17223143129200/Dashboard1?publish=yes)
+### [**Hugging Face**](https://huggingface.co/spaces/vickybelario/project01)
 
 ## **Project Background**
 
@@ -68,8 +71,3 @@ This model offers high accuracy and the best performance in handling both FAQs a
 2. Implementing deeper contextual understanding techniques, such as using transformer-based models like BERT.
 3. Applying a feedback loop mechanism where users can provide direct feedback on the chatbot's answer quality, which can be used to continuously train and refine the model.
 
-### [**Slide Project**](https://www.canva.com/design/DAGMqmQTmik/ZxsireTIhwfcg-_ITiN2sg/edit?utm_content=DAGMqmQTmik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-### [**Dataset**](https://www.kaggle.com/datasets/indraputra21/used-car-listings-in-indonesia?select=used_car.csv)
-### [**Deployment Demo**](https://drive.google.com/file/d/18srgZGhkPxruex62RCXlwg3URjR7Puq8/view?usp=sharing)
-### [**Tableau**](https://public.tableau.com/app/profile/ahmad.dani.rifai/viz/CarListing_17223143129200/Dashboard1?publish=yes)
-### [**Hugging Face**](https://huggingface.co/spaces/vickybelario/project01)
