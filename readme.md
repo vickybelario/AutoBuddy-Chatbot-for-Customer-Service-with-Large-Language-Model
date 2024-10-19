@@ -14,7 +14,7 @@
 ### [**Dataset**](https://www.kaggle.com/datasets/indraputra21/used-car-listings-in-indonesia?select=used_car.csv)
 ### [**Deployment Demo**](https://drive.google.com/file/d/18srgZGhkPxruex62RCXlwg3URjR7Puq8/view?usp=sharing)
 ### [**Tableau**](https://public.tableau.com/app/profile/ahmad.dani.rifai/viz/CarListing_17223143129200/Dashboard1?publish=yes)
-### [**Hugging Face**](https://huggingface.co/spaces/vickybelario/project01)
+### [**Hugging Face**](https://huggingface.co/spaces/vickybelario/AutoBuddy-Chatbot-LLM)
 
 ## **Project Background**
 
