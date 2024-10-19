@@ -16,6 +16,14 @@
 ### [**Tableau**](https://public.tableau.com/app/profile/ahmad.dani.rifai/viz/CarListing_17223143129200/Dashboard1?publish=yes)
 ### [**Hugging Face**](https://huggingface.co/spaces/vickybelario/AutoBuddy-Chatbot-LLM)
 
+Slide Project bisa diakses di website Canva : [Link](https://www.canva.com/design/DAGMqmQTmik/ZxsireTIhwfcg-_ITiN2sg/edit?utm_content=DAGMqmQTmik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Exploratory data analysis dilakukan pada website Tableu : [Link](https://public.tableau.com/app/profile/ahmad.dani.rifai/viz/CarListing_17223143129200/Dashboard1?publish=yes)
+Pengambilan data melalui website kaggle : [Link](https://www.kaggle.com/datasets/indraputra21/used-car-listings-in-indonesia?select=used_car.csv)
+Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/AutoBuddy-Chatbot-LLM)
+model demo : [Link](https://huggingface.co/spaces/vickybelario/AutoBuddy-Chatbot-LLM)
+
+
+
 ## **Project Background**
 
 Based on research conducted by Forbes, companies that use chatbots as a tool to interact with users see an average increase of 67 percent in revenue. Additionaly, according to a survey conducted by [Intercom](https://www.intercom.com/blog/the-state-of-chatbots/) with 500 business leaders, the use of chatbots can increase customer satisfaction by 24 percent.
