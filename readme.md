@@ -18,9 +18,9 @@
 
 Slide Project bisa diakses di website Canva : [Link](https://www.canva.com/design/DAGMqmQTmik/ZxsireTIhwfcg-_ITiN2sg/edit?utm_content=DAGMqmQTmik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  <br>
 Exploratory data analysis dilakukan pada website Tableu : [Link](https://public.tableau.com/app/profile/ahmad.dani.rifai/viz/CarListing_17223143129200/Dashboard1?publish=yes)  <br>
-Pengambilan data melalui website kaggle : [Link](https://www.kaggle.com/datasets/indraputra21/used-car-listings-in-indonesia?select=used_car.csv)  <br>
-Deployment proyek model pada website huggingface : [Link](https://huggingface.co/spaces/vickybelario/AutoBuddy-Chatbot-LLM)  <br>
-model demo : [Link](https://huggingface.co/spaces/vickybelario/AutoBuddy-Chatbot-LLM) <br>
+Pengambilan data melalui website Kaggle : [Link](https://www.kaggle.com/datasets/indraputra21/used-car-listings-in-indonesia?select=used_car.csv)  <br>
+Deployment proyek model pada website Huggingface : [Link](https://huggingface.co/spaces/vickybelario/AutoBuddy-Chatbot-LLM)  <br>
+model demo : [Link](https://drive.google.com/file/d/18srgZGhkPxruex62RCXlwg3URjR7Puq8/view?usp=sharing) <br>
 
 
 
