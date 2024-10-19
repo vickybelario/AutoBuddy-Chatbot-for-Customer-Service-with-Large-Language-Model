@@ -10,12 +10,6 @@
 
 </center>
 
-### [**Slide Project**](https://www.canva.com/design/DAGMqmQTmik/ZxsireTIhwfcg-_ITiN2sg/edit?utm_content=DAGMqmQTmik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-### [**Dataset**](https://www.kaggle.com/datasets/indraputra21/used-car-listings-in-indonesia?select=used_car.csv)
-### [**Deployment Demo**](https://drive.google.com/file/d/18srgZGhkPxruex62RCXlwg3URjR7Puq8/view?usp=sharing)
-### [**Tableau**](https://public.tableau.com/app/profile/ahmad.dani.rifai/viz/CarListing_17223143129200/Dashboard1?publish=yes)
-### [**Hugging Face**](https://huggingface.co/spaces/vickybelario/AutoBuddy-Chatbot-LLM)
-
 Slide Project bisa diakses di website Canva : [Link](https://www.canva.com/design/DAGMqmQTmik/ZxsireTIhwfcg-_ITiN2sg/edit?utm_content=DAGMqmQTmik&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  <br>
 Exploratory data analysis dilakukan pada website Tableu : [Link](https://public.tableau.com/app/profile/ahmad.dani.rifai/viz/CarListing_17223143129200/Dashboard1?publish=yes)  <br>
 Pengambilan data melalui website Kaggle : [Link](https://www.kaggle.com/datasets/indraputra21/used-car-listings-in-indonesia?select=used_car.csv)  <br>
